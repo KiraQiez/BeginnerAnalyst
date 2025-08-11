@@ -6,7 +6,7 @@
 [![API](https://img.shields.io/badge/API-CoinGecko-yellow)](https://www.coingecko.com/en/api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-This repository contains two beginner-to-intermediate level projects aimed at practicing **data analysis**, **data visualization**, and **API integration** skills using Python.
+This repository contains two beginner level projects aimed at practicing **data analysis**, **data visualization**, and **API integration** skills using Python.
 
 ---
 
@@ -81,11 +81,3 @@ This repository contains two beginner-to-intermediate level projects aimed at pr
 
 ---
 
-## 🚀 How to Run the Projects
-
-### **Netflix Analysis**
-```bash
-git clone https://github.com/yourusername/data-science-mini-projects.git
-cd data-science-mini-projects/netflix_analysis
-pip install -r requirements.txt
-jupyter notebook netflix_analysis.ipynb
